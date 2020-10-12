@@ -1,13 +1,14 @@
 # 2020 软件工程第二次结对作业
  - 目录说明
-    - iiindex.html
-    - image 文件夹
-       - background.jpg     (背景图片)
+    - index.html
+    - img 文件夹  一些会用到的小图片
     - css 文件夹
        - bootstrap.css
        - style.css
     - src 文件夹
        - bootstrap.js
+       - run.js
        - jquery.js
  - 使用说明
     - 下载文件压缩包，运行 index.html 文件
+    - 请确保整个路径无中文
